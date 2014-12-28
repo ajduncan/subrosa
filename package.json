@@ -1,0 +1,15 @@
+{
+  "name": "subrosa",
+  "version": "0.0.1",
+  "description": "Package for secure note exchange",
+  "author": {
+    "name": "Andy Duncan"
+  },
+  "mean": "0.4.2",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
